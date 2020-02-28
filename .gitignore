@@ -1,0 +1,9 @@
+*.swp
+.ipynb_checkpoints/
+__pycache__/
+*.asv
+*.aux
+*.log
+*.synctex.gz
+*.pdf
+*.out
