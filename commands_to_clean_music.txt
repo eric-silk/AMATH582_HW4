@@ -1,0 +1,5 @@
+The following commands were used to clean up some of the filenames/paths:
+
+rename 's/^(.{1234})//' *  # Where 1234 is the number of leading characters to remove
+rename 's/ /_/g' *  # change spaces to underscores
+
