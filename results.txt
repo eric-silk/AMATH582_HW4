@@ -1,0 +1,44 @@
+441000
+Removed 13 entries for insufficient size.
+967
+(773, 100)
+Test case: band_classification
+                precision    recall  f1-score   support
+
+    Andy Mckee       0.92      0.30      0.45        74
+Herbie Hancock       0.44      0.41      0.43        39
+     Monuments       0.50      0.83      0.62        81
+
+      accuracy                           0.54       194
+     macro avg       0.62      0.51      0.50       194
+  weighted avg       0.65      0.54      0.52       194
+
+441000
+Removed 14 entries for insufficient size.
+786
+(628, 100)
+Test case: same_genre
+              precision    recall  f1-score   support
+
+  Bongripper       0.12      0.12      0.12        34
+    Monolord       0.69      0.65      0.67        37
+   Monuments       0.60      0.61      0.60        87
+
+    accuracy                           0.51       158
+   macro avg       0.47      0.46      0.46       158
+weighted avg       0.51      0.51      0.51       158
+
+441000
+Removed 82 entries for insufficient size.
+2448
+(1958, 100)
+Test case: genre_classification
+              precision    recall  f1-score   support
+
+    Acoustic       0.43      0.28      0.34       196
+        Jazz       0.49      0.61      0.54       139
+       Metal       0.53      0.65      0.58       155
+
+    accuracy                           0.49       490
+   macro avg       0.48      0.51      0.49       490
+weighted avg       0.48      0.49      0.47       490
